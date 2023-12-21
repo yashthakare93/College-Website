@@ -1,0 +1,24 @@
+https://th.bing.com/th/id/R.7ef232497a71d05bbb738a21424cb7a0?rik=RzV8FHy%2bcnlrAA&riu=http%3a%2f%2falphasmartsol.com%2fwp-content%2fuploads%2f2019%2f09%2fabout.png&ehk=0ChzePCashkMJPNH7eeVz%2b%2fEOhnjvF5DAQQQAjg0yyE%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
+ <div class="width-33">
+          <div class="about-us">
+             <div class="heading-sect">
+                <h3 class="head-title"> Hon'ble Governor of Maharashtra</h3>
+             </div>
+             <div class="width-100 gove-sec-style">
+                <div class="width-40">
+                   <img class="governor-img" src="images/principal-img.jpg">
+                </div>
+                <div class="width-60">
+                   <p class="governor-name">Dr. Jay sharma</p>
+                   <p class="governor-designation">Principal, Apna College</p>
+                </div>
+             </div>
+             <div class="width-40">
+                <img class="governor-img" src="images/MH.GIF">
+             </div>
+             <div class="width-60">
+                <p class="governor-name">Shri Eknath Shinde.</p>
+                <p class="governor-designation">chief ministers of Maharashtra</p>
+             </div>
+          </div>
+       </div>

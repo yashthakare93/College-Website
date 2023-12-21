@@ -1,0 +1,13 @@
+.btn-group{
+    padding-left: 5px auto;
+    float: left;
+    
+
+}
+table, th, td {
+    border: 1px;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #deff0a;
+  }
